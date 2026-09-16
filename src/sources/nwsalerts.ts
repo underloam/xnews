@@ -13,7 +13,7 @@ import type {
 } from "../types.js";
 
 const NWS_DATASET = "active-alerts";
-const NWS_USER_AGENT = "xnews weather alerts (+https://github.com/xbbg-org/xnews)";
+const NWS_USER_AGENT = "xnews weather alerts (+https://github.com/underloam/xnews)";
 const NWS_SHAPE_ERROR = "unexpected NWS alerts response shape";
 
 const NWS_SEVERITIES: Readonly<Record<string, EventSeverity>> = {

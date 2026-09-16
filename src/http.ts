@@ -2,7 +2,7 @@ import { redactUrl, XnewsFetchError } from "./errors.js";
 import { hasAsciiControlCharacters } from "./text.js";
 import type { ProviderError, SourceFetchOptions } from "./types.js";
 
-export const DEFAULT_USER_AGENT = "xnews (+https://github.com/xbbg-org/xnews)";
+export const DEFAULT_USER_AGENT = "xnews (+https://github.com/underloam/xnews)";
 
 /**
  * Some providers serve bot-shaped User-Agents an interstitial or a 403; they

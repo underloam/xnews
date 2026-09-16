@@ -4,6 +4,10 @@ All notable changes to `@xbbg/xnews-langgraph` are documented in this file.
 
 ## [Unreleased]
 
+### Changed
+
+- Repository links now use `underloam/xnews`, with project-neutral package author metadata. The npm package name and scope are unchanged.
+
 ## [0.2.3] - 2026-08-29
 
 ### Fixed
@@ -48,8 +52,8 @@ All notable changes to `@xbbg/xnews-langgraph` are documented in this file.
 - Public Zod 3.25.76 and Zod 4.2.0 compatible schemas, stable TypeScript types, and exhaustive capability registries.
 - Exact-floor packaged-install smoke coverage for both supported Zod majors.
 
-[Unreleased]: https://github.com/xbbg-org/xnews/compare/xnews-langgraph-v0.2.3...HEAD
-[0.2.3]: https://github.com/xbbg-org/xnews/compare/xnews-langgraph-v0.2.2...xnews-langgraph-v0.2.3
-[0.2.2]: https://github.com/xbbg-org/xnews/compare/xnews-langgraph-v0.2.1...xnews-langgraph-v0.2.2
-[0.2.1]: https://github.com/xbbg-org/xnews/compare/xnews-langgraph-v0.1.0...xnews-langgraph-v0.2.1
-[0.1.0]: https://github.com/xbbg-org/xnews/releases/tag/xnews-langgraph-v0.1.0
+[Unreleased]: https://github.com/underloam/xnews/compare/xnews-langgraph-v0.2.3...HEAD
+[0.2.3]: https://github.com/underloam/xnews/compare/xnews-langgraph-v0.2.2...xnews-langgraph-v0.2.3
+[0.2.2]: https://github.com/underloam/xnews/compare/xnews-langgraph-v0.2.1...xnews-langgraph-v0.2.2
+[0.2.1]: https://github.com/underloam/xnews/compare/xnews-langgraph-v0.1.0...xnews-langgraph-v0.2.1
+[0.1.0]: https://github.com/underloam/xnews/releases/tag/xnews-langgraph-v0.1.0

@@ -7,7 +7,7 @@ import {
 } from "../scripts/release.js";
 import type { ReleaseIo } from "../scripts/release.js";
 
-const REPOSITORY = "https://github.com/xbbg-org/xnews";
+const REPOSITORY = "https://github.com/underloam/xnews";
 const CORE_MANIFEST = `${JSON.stringify(
   {
     name: "@xbbg/xnews",

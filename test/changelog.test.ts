@@ -8,7 +8,7 @@ import {
   releaseNotes,
 } from "../scripts/changelog.js";
 
-const REPOSITORY_URL = "https://github.com/xbbg-org/xnews";
+const REPOSITORY_URL = "https://github.com/underloam/xnews";
 
 const CHANGELOG = `# Changelog
 

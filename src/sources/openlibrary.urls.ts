@@ -16,7 +16,7 @@ export { OPEN_LIBRARY_BASE_URL };
  * given a higher request allowance than anonymous traffic.
  */
 export const OPEN_LIBRARY_USER_AGENT =
-  "@xbbg/xnews Open Library adapter (+https://github.com/xbbg-org/xnews)";
+  "@xbbg/xnews Open Library adapter (+https://github.com/underloam/xnews)";
 
 /** Fields the search API returns that this adapter reads. */
 export const OPEN_LIBRARY_SEARCH_FIELDS = [

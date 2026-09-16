@@ -1,6 +1,6 @@
 # @xbbg/xnews-langgraph
 
-Provider-agnostic LangChain tools, finite LangGraph nodes, and a starter analyst for [`@xbbg/xnews`](https://github.com/xbbg-org/xnews).
+Provider-agnostic LangChain tools, finite LangGraph nodes, and a starter analyst for [`@xbbg/xnews`](https://github.com/underloam/xnews).
 
 ## Requirements
 

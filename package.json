@@ -27,15 +27,15 @@
     "yahoo-finance",
     "youtube"
   ],
-  "homepage": "https://github.com/xbbg-org/xnews#readme",
+  "homepage": "https://github.com/underloam/xnews#readme",
   "bugs": {
-    "url": "https://github.com/xbbg-org/xnews/issues"
+    "url": "https://github.com/underloam/xnews/issues"
   },
   "license": "Apache-2.0",
-  "author": "Alpha x1",
+  "author": "underloam contributors",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xbbg-org/xnews.git"
+    "url": "git+https://github.com/underloam/xnews.git"
   },
   "workspaces": [
     "packages/*"

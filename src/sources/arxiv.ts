@@ -33,7 +33,7 @@ export type {
   ArxivSearchUrlOptions,
 } from "./arxiv.urls.js";
 
-const ARXIV_USER_AGENT = "@xbbg/xnews arXiv adapter (+https://github.com/xbbg-org/xnews)";
+const ARXIV_USER_AGENT = "@xbbg/xnews arXiv adapter (+https://github.com/underloam/xnews)";
 
 /** Parses legacy API Atom results or official Atom/RSS announcement feeds. */
 export function parseArxivPapers(xml: string, limit?: number): ResearchPaper[] {

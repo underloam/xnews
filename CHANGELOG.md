@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- Repository links and provider User-Agent contact URLs now use `underloam/xnews`. The npm package name and scope are unchanged; package author metadata uses the project contributor identity.
+
 ## [0.2.2] - 2026-08-29
 
 ### Fixed
@@ -140,9 +144,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Published bundle now links its source map. `--sourcemap=external` emitted `dist/index.js.map` without a `sourceMappingURL` comment, shipping ~308 KB of unreachable data.
 - Declaration maps no longer point at `../src`, which is not part of the published tarball; `declarationMap` is disabled for the build config.
 
-[Unreleased]: https://github.com/xbbg-org/xnews/compare/v0.2.2...HEAD
-[0.2.2]: https://github.com/xbbg-org/xnews/compare/v0.2.1...v0.2.2
-[0.2.1]: https://github.com/xbbg-org/xnews/compare/v0.2.0...v0.2.1
-[0.2.0]: https://github.com/xbbg-org/xnews/compare/v0.1.1...v0.2.0
-[0.1.1]: https://github.com/xbbg-org/xnews/compare/v0.1.0...v0.1.1
-[0.1.0]: https://github.com/xbbg-org/xnews/releases/tag/v0.1.0
+[Unreleased]: https://github.com/underloam/xnews/compare/v0.2.2...HEAD
+[0.2.2]: https://github.com/underloam/xnews/compare/v0.2.1...v0.2.2
+[0.2.1]: https://github.com/underloam/xnews/compare/v0.2.0...v0.2.1
+[0.2.0]: https://github.com/underloam/xnews/compare/v0.1.1...v0.2.0
+[0.1.1]: https://github.com/underloam/xnews/compare/v0.1.0...v0.1.1
+[0.1.0]: https://github.com/underloam/xnews/releases/tag/v0.1.0
