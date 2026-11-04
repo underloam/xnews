@@ -4,9 +4,13 @@
   </a>
 </p>
 
-[![CI](https://github.com/underloam/xnews/actions/workflows/ci.yml/badge.svg)](https://github.com/underloam/xnews/actions/workflows/ci.yml)
-[![npm](https://img.shields.io/npm/v/@xbbg/xnews.svg)](https://www.npmjs.com/package/@xbbg/xnews)
-[![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
+<p align="center">
+  <a href="https://www.npmjs.com/package/@xbbg/xnews"><img src="https://xbbg.org/badges/xnews/typescript.svg" alt="@xbbg/xnews"></a>
+  <a href="https://www.npmjs.com/package/@xbbg/xnews-langgraph"><img src="https://xbbg.org/badges/xnews/langgraph.svg" alt="@xbbg/xnews-langgraph"></a><br>
+  <a href="https://github.com/underloam/xnews/actions/workflows/ci.yml"><img src="https://xbbg.org/badges/xnews/ci.svg" alt="CI"></a>
+  <a href="https://xbbg.org/xnews/"><img src="https://xbbg.org/badges/xnews/docs.svg" alt="Documentation"></a>
+  <a href="LICENSE"><img src="https://xbbg.org/badges/xnews/license.svg" alt="License"></a>
+</p>
 
 Pure fetch/parse/normalize utilities for building company, topic, watchlist, and research feeds, plus scheduled economic-data releases and bibliographic catalog lookup. xnews covers public market-news feeds, research-paper metadata, central-bank publications, structured data releases, book and document catalogs, and YouTube media, and reads the documents it finds — EPUB, PDF, DjVu, MOBI, and CBZ text with no runtime dependency. It does not persist data, schedule jobs, store state, score sentiment, or provide investment advice.
 
