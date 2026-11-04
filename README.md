@@ -32,6 +32,10 @@ Requires Node 24 or newer. The package is **ESM-only**: it exports ESM from `dis
 - `@xbbg/xnews/parsers` exports pure parsers, the shared `readZipEntries`, `readXlsx`, and `parseCsvRecords`/`parseCsvTable` readers, and `parsePublishedAt`.
 - `@xbbg/xnews/asr` exports transcription APIs.
 
+<p align="center">
+  <img src=".github/assets/readme-lanes.svg" alt="xnews subpath exports and four public-source data lanes" width="100%">
+</p>
+
 ## Company feed
 
 ```ts
