@@ -1,0 +1,57 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">xnews banner</title>
+  <desc id="desc">xnews: market news from public sources. Company and topic news feeds, document readers for PDF and EPUB, economic data release dates, install.</desc>
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#44212a"/>
+      <stop offset="0.58" stop-color="#391d24"/>
+      <stop offset="1" stop-color="#1e1b20"/>
+    </linearGradient>
+    <linearGradient id="mark" x1="78" y1="50" x2="214" y2="186" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#532a34"/>
+      <stop offset="1" stop-color="#341c23"/>
+    </linearGradient>
+    <clipPath id="frame">
+      <rect width="1200" height="260" rx="30"/>
+    </clipPath>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="260" rx="30" fill="url(#card)"/>
+  <g clip-path="url(#frame)">
+    <text x="0" y="255" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="260" font-weight="800" fill="#ffffff" opacity="0.032">xnewsxnewsxnewsxnews</text>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="259" rx="29.5" stroke="#ffffff" stroke-opacity="0.10"/>
+
+  <g transform="translate(78 62)">
+    <rect width="136" height="136" rx="30" fill="url(#mark)"/>
+    <text x="68" y="81" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="31" font-weight="800" fill="#ffffff">xnews</text>
+  </g>
+
+  <g transform="translate(250 75)" font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="0" y="60" font-size="72" font-weight="850" letter-spacing="-3" fill="#ffffff">xnews</text>
+    <text x="3" y="98" font-size="21" font-weight="500" fill="#ecd9dc" opacity="0.84">Market news from public sources</text>
+  </g>
+
+  <g transform="translate(684 69)" font-family="Inter, Segoe UI, Arial, sans-serif">
+    <g transform="translate(0 0)">
+      <g fill="none" opacity="0.9"><circle cx="7" cy="45" r="5" fill="#f2e6e8"/><path d="M3 25a24 24 0 0 1 24 24M3 7a42 42 0 0 1 42 42" stroke="#f2e6e8" stroke-width="3.5" stroke-linecap="round"/></g>
+      <text x="62" y="17" font-size="16" fill="#ccb6ba">Company &amp; topic</text>
+      <text x="62" y="46" font-size="24" font-weight="800" fill="#ffffff">News feeds</text>
+    </g>
+    <g transform="translate(258 0)">
+      <g fill="none" opacity="0.9"><path d="M7 2h21l13 13v33a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V6a4 4 0 0 1 4-4z" stroke="#f2e6e8" stroke-width="3" stroke-linejoin="round"/><path d="M27 3v13h13" stroke="#f2e6e8" stroke-width="3" stroke-linejoin="round"/><path d="M11 27h20M11 35h20M11 43h12" stroke="#f2e6e8" stroke-width="3" stroke-linecap="round"/></g>
+      <text x="62" y="17" font-size="16" fill="#ccb6ba">Reads documents</text>
+      <text x="62" y="46" font-size="24" font-weight="800" fill="#ffffff">PDF · EPUB</text>
+    </g>
+    <g transform="translate(0 88)">
+      <g fill="none" opacity="0.9"><path d="M1 51h46" stroke="#f2e6e8" stroke-width="3" stroke-linecap="round"/><path d="M8 43V31M19 43V17M30 43V24M41 43V6" stroke="#f2e6e8" stroke-width="5" stroke-linecap="round"/></g>
+      <text x="62" y="17" font-size="16" fill="#ccb6ba">Economic data</text>
+      <text x="62" y="46" font-size="24" font-weight="800" fill="#ffffff">Release dates</text>
+    </g>
+    <g transform="translate(258 88)">
+      <g fill="none" opacity="0.9"><path d="M10 3l24 24-24 24" stroke="#f2e6e8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></g>
+      <text x="62" y="17" font-size="16" fill="#ccb6ba">Get started</text>
+      <text x="62" y="46" font-size="24" font-weight="800" fill="#ffffff">Install</text>
+    </g>
+  </g>
+</svg>

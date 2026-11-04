@@ -1,4 +1,8 @@
-# xnews
+<p align="center">
+  <a href="#install">
+    <img src=".github/assets/readme-hero-flat.svg" alt="xnews banner" width="100%">
+  </a>
+</p>
 
 [![CI](https://github.com/underloam/xnews/actions/workflows/ci.yml/badge.svg)](https://github.com/underloam/xnews/actions/workflows/ci.yml)
 [![npm](https://img.shields.io/npm/v/@xbbg/xnews.svg)](https://www.npmjs.com/package/@xbbg/xnews)
