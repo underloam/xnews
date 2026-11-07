@@ -1,3 +1,15 @@
+<p align="center">
+  <a href="https://xbbg.org/xnews/guides/langgraph">
+    <img src="https://raw.githubusercontent.com/underloam/xnews/main/.github/assets/readme-hero-flat.svg" alt="xnews banner" width="100%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/@xbbg/xnews-langgraph"><img src="https://xbbg.org/badges/xnews/langgraph.svg" alt="@xbbg/xnews-langgraph"></a>
+  <a href="https://github.com/underloam/xnews/actions/workflows/ci.yml"><img src="https://xbbg.org/badges/xnews/ci.svg" alt="CI"></a>
+  <a href="https://xbbg.org/xnews/guides/langgraph"><img src="https://xbbg.org/badges/xnews/docs.svg" alt="Documentation"></a>
+</p>
+
 # @xbbg/xnews-langgraph
 
 Provider-agnostic LangChain tools, finite LangGraph nodes, and a starter analyst for [`@xbbg/xnews`](https://github.com/underloam/xnews).

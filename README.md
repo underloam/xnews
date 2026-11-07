@@ -33,7 +33,7 @@ Requires Node 24 or newer. The package is **ESM-only**: it exports ESM from `dis
 - `@xbbg/xnews/asr` exports transcription APIs.
 
 <p align="center">
-  <img src=".github/assets/readme-lanes.svg" alt="xnews subpath exports and four public-source data lanes" width="100%">
+  <img src=".github/assets/readme-lanes.svg" alt="xnews subpath exports and four public-source data lanes" width="720">
 </p>
 
 ## Company feed
